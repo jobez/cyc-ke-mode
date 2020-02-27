@@ -1,0 +1,8 @@
+* cyc knowledge entry/editing mode for emacs
+
+  C'est le espace-temps.
+
+
+  Syntax is described here: https://web.archive.org/web/20200205001240/http://pdkb.org/wiki/index.php/KE-Text
+
+  PRs welcome!
